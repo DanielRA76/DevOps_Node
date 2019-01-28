@@ -1,4 +1,18 @@
 
+
+
+
+![Node](https://camo.githubusercontent.com/9c24355bb3afbff914503b663ade7beb341079fa/68747470733a2f2f6e6f64656a732e6f72672f7374617469632f696d616765732f6c6f676f2d6c696768742e737667)
+
+
+# AWS
+
+
+### IP: 18.224.41.181
+### Dominio: ec2-18-224-41-181.us-east-2.compute.amazonaws.com
+
+
+
 # NodePop
 
 [Demo](/anuncios) of the methods (this link works only if you run the project)
