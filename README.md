@@ -11,7 +11,7 @@
 ### IP: [18.224.41.181](http://18.224.41.181/)
 ### Dominio: [ec2-18-224-41-181.us-east-2.compute.amazonaws.com](http://ec2-18-224-41-181.us-east-2.compute.amazonaws.com/)
 
-Ver archivos estáticos servidos por [Nginx](/anuncios) 
+Ver archivos estáticos servidos por [Nginx](http://ec2-18-224-41-181.us-east-2.compute.amazonaws.com/anuncios) 
 
 # NodePop
 
